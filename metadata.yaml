@@ -1,0 +1,24 @@
+_repo: The-New-England-Country_54695
+_version: 0.0.1
+contributor:
+  illustrator: &id001
+    agent_name: Johnson, Clifton
+    birthdate: 1865
+    deathdate: 1940
+    gutenberg_agent_id: '36996'
+    url: http://www.gutenberg.org/2009/agents/36996
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2017-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The New England Country
+url: http://www.gutenberg.org/ebooks/54695
