@@ -1,5 +1,5 @@
 _repo: The-New-England-Country_54695
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator: &id001
     agent_name: Johnson, Clifton
@@ -7,9 +7,14 @@ contributor:
     deathdate: 1940
     gutenberg_agent_id: '36996'
     url: http://www.gutenberg.org/2009/agents/36996
+covers:
+- cover_type: archival
+  image_path: 54695-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54695#The-New-England-Country
 gutenberg_issued: '2017-05-10'
 gutenberg_type: Text
 identifiers:
